@@ -1,0 +1,6 @@
+paquetes utilizados:
+
+- dart-sass
+- bootstrap 5
+- fontawesome
+- autoprefixer

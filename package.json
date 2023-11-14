@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio using bootstrap 5.3 and SASS",
+  "main": "index.js",
+  "scripts": {
+    "buildSass": "sass --watch scss:assets/css"
+  },
+  "author": "diegogomezgonza",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "autoprefixer": "^10.4.16",
+    "bootstrap": "^5.3.2",
+    "postcss-cli": "^10.1.0"
+  }
+}
