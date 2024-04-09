@@ -12,3 +12,6 @@ React es una biblioteca de JavaScript utilizada para construir interfaces de usu
 
 ## Vite
 Vite es un entorno de desarrollo rápido para aplicaciones web que permite una configuración simple y un tiempo de compilación rápido. Se utiliza en este proyecto para facilitar el desarrollo y la compilación de la aplicación.
+
+## Aspecto
+![1](https://github.com/diegogomezgonza/dggArts-portfolio/assets/93382813/2124b5b6-2f1d-4497-9df1-35ede348b4c1)
